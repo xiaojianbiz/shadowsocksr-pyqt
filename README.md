@@ -1,2 +1,0 @@
-# shadowsocksr-pyqt
-test
