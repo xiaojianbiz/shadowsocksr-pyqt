@@ -7,3 +7,6 @@
 
 目前拥有的编译后版本为:
   Kail  64位
+
+
+# https://blog.bbsec.xyz
